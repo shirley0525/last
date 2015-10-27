@@ -14,7 +14,7 @@ public class two {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("two");
+        System.out.print("two edited");
     }
     
 }
