@@ -8,13 +8,13 @@
  *
  * @author Shirley
  */
-public class two {
+public class three {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("two you are right!thanks");
+        System.out.print("3")
     }
     
 }
